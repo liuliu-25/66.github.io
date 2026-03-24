@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的个人网站</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>你好，世界！</h1>
+    <p>这是我的 GitHub Pages 个人网站。</p>
+    <p>我正在使用 GitHub Pages 托管它。</p>
+</body>
+</html>
